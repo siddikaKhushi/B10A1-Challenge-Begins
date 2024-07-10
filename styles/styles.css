@@ -59,6 +59,10 @@ margin-right: 80px;
     border: none;
     cursor: pointer;
   }
+  .btn-btn{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  }
   .btn-container {
     text-align: center;
   }
