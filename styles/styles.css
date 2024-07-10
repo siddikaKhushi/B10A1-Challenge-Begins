@@ -42,6 +42,8 @@ line-height: 26px;
 letter-spacing: 0%;
 text-align: center;
 opacity: 0.7;
+margin-left: 80px;
+margin-right: 80px;
 }
 .btn {
     padding: 14px 18px 14px 18px;
@@ -91,6 +93,8 @@ line-height: 20px;
 letter-spacing: 0%;
 text-align: center;
 opacity: 0.7;
+margin-left: 80px;
+margin-right: 80px;
 }
 
 /* 1st */
@@ -180,10 +184,15 @@ line-height: 26px;
 letter-spacing: 0%;
 text-align: center;
 opacity: 0.7;
+margin-left: 80px;
+margin-right: 80px;
 }
 .inspiration .inspiration-video{
   /* align-items: center; */
   justify-content: center;
+  padding: 10px;
+  border: 2px solid rgb(18, 17, 17);
+  border-radius: 8px;
 }
 .video{
   margin-top: 1300px;
@@ -221,6 +230,8 @@ letter-spacing: 0%;
 text-align: center;
 opacity: 0.7;
 margin-bottom: 50px;
+margin-left: 80px;
+margin-right: 80px;
 }
 .hcj-description{
   display: flex;
