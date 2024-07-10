@@ -259,6 +259,33 @@ text-align: left;
 text-decoration-line: underline;
 border: none;
 margin-left: 5px;
+background-color: antiquewhite;
+ }
+ .css-btn{
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 13px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+border: none;
+margin-left: 5px;
+background-color: silver;
+ }
+ .js-btn{
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 13px;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration-line: underline;
+border: none;
+margin-left: 5px;
+background-color: rgb(31, 103, 123);
  }
 .html{
   border-radius: 10px;
@@ -279,7 +306,7 @@ margin-left: 5px;
   height: 250px;
 }
 .support{
-  background-image: url(../assets/handshake.jpg);
+  background-image:url(../assets/handshake.jpg);
   background-size: cover;
   background-position: center;
   display: flex;
@@ -321,4 +348,29 @@ background: rgb(255, 255, 255);
 .support-btn{
   border-radius: 8px;
   background: rgb(255, 255, 255);
+}
+
+/* footer */
+
+.footer{
+  margin: 80px 100px 20px 100px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 16px;
+
+  background: rgba(13, 19, 33, 0.03);
+}
+.link{
+  display: flex;
+  text-decoration: none;
+  gap: 10px;
+}
+footer-line{
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
 }
